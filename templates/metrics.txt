@@ -1,0 +1,11 @@
+wx_wind_speed{source="ADS-WS1"} {{wx_wind_speed}}
+wx_average_wind_speed{source="ADS-WS1"} {{wx_average_wind_speed}}
+wx_wind_bearing{source="ADS-WS1"} {{wx_wind_bearing}}
+
+wx_barometer{source="ADS-WS1"} {{wx_barometer}}
+wx_temperature{source="ADS-WS1"} {{wx_temperature}}
+wx_humidity{source="ADS-WS1"} {{wx_humidity}}
+wx_dewpoint{source="ADS-WS1"} {{wx_dewpoint}}
+
+wx_total_rain{source="ADS-WS1"} {{wx_total_rain}}
+wx_today_rain{source="ADS-WS1"} {{wx_today_rain}}
